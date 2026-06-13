@@ -30,7 +30,7 @@ Requirements
 Windows 10 or later
 No additional software needed. Tor is bundled.
 Building from source
-git clone https://github.com/yourname/epiphyte.git
+
 cd epiphyte
 build.bat
 The build script installs dependencies, downloads the Tor expert bundle, and produces an installer at 
